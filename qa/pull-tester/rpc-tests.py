@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 # Copyright (c) 2014-2016 The Bitcoin Core developers
 # Copyright (c) 2022-2024 The Dogecoin Core developers
